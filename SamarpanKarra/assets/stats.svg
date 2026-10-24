@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="320" viewBox="0 0 420 320" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-<rect width="420" height="320" rx="12" fill="#0f1340"/>
-<circle cx="22" cy="22" r="5" fill="#ff5f56"/><circle cx="40" cy="22" r="5" fill="#ffbd2e"/><circle cx="58" cy="22" r="5" fill="#27c93f"/>
-<text x="210" y="26" fill="#8fa0ff" font-size="12" text-anchor="middle">./stats.sh</text>
-<rect x="20" y="52" width="4" height="236" rx="2" fill="#0018f9"/>
-<text x="36" y="98" fill="#fff" font-size="40" font-weight="700">485</text><text x="36" y="120" fill="#8fa0ff" font-size="13">contributions · last 12 months</text>
-<text x="36" y="180" fill="#fff" font-size="40" font-weight="700">0 days</text><text x="36" y="202" fill="#8fa0ff" font-size="13">current streak</text>
-<text x="36" y="262" fill="#fff" font-size="40" font-weight="700">6 days</text><text x="36" y="284" fill="#8fa0ff" font-size="13">longest streak</text>
-</svg>
