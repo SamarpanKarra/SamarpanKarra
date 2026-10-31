@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="810" height="206" viewBox="0 0 810 206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
 <rect width="810" height="206" rx="12" fill="#0f1340"/>
 <circle cx="22" cy="22" r="5" fill="#ff5f56"/><circle cx="40" cy="22" r="5" fill="#ffbd2e"/><circle cx="58" cy="22" r="5" fill="#27c93f"/>
-<text x="405" y="26" fill="#8fa0ff" font-size="12" text-anchor="middle">contributions: 7 in the last year</text>
+<text x="405" y="26" fill="#8fa0ff" font-size="12" text-anchor="middle">contributions: 8 in the last year</text>
 <text x="44" y="54" fill="#8fa0ff" font-size="10">Oct</text>
 <rect x="44" y="62" width="11" height="11" rx="2" fill="#1b2070"><title>2025-10-26: 0</title></rect>
 <rect x="44" y="76" width="11" height="11" rx="2" fill="#1b2070"><title>2025-10-27: 0</title></rect>
@@ -384,7 +384,8 @@
 <rect x="772" y="90" width="11" height="11" rx="2" fill="#1b2070"><title>2026-10-27: 0</title></rect>
 <rect x="772" y="104" width="11" height="11" rx="2" fill="#1b2070"><title>2026-10-28: 0</title></rect>
 <rect x="772" y="118" width="11" height="11" rx="2" fill="#1b2070"><title>2026-10-29: 0</title></rect>
-<rect x="772" y="132" width="11" height="11" rx="2" fill="#1b2070"><title>2026-10-30: 0</title></rect>
+<rect x="772" y="132" width="11" height="11" rx="2" fill="#2a3bc0"><title>2026-10-30: 1</title></rect>
+<rect x="772" y="146" width="11" height="11" rx="2" fill="#1b2070"><title>2026-10-31: 0</title></rect>
 <text x="10" y="85" fill="#8fa0ff" font-size="9">Mon</text>
 <text x="10" y="113" fill="#8fa0ff" font-size="9">Wed</text>
 <text x="10" y="141" fill="#8fa0ff" font-size="9">Fri</text>
